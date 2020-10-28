@@ -1,1 +1,1 @@
-#Basic JavaScript - Create Momentum
+Basic JavaScript - Cloning Momentum Chrome app
