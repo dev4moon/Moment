@@ -11,8 +11,8 @@ function getTime(){
         minutes < 10 ? `0${minutes}` : minutes}:${
         seconds < 10 ? `0${seconds}` : seconds
     }`;
-
 }
+//10보다 작은 숫자 두자리수로 만들기
 
 function init() {
     getTime();
